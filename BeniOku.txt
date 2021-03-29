@@ -1,0 +1,3 @@
+Setup kurulumu yaptıktan sonra programın
+düzgün çalışması için 
+Yönetici Olarak Çalıştırın. 

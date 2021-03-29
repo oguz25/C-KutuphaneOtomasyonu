@@ -1,0 +1,36 @@
+C:\Users\yakup\source\repos\KutuphaneOtomasyon0\KutuphaneOtomasyon0\bin\Debug\KutuphaneOtomasyon0.exe.config
+C:\Users\yakup\source\repos\KutuphaneOtomasyon0\KutuphaneOtomasyon0\bin\Debug\KutuphaneOtomasyon0.exe
+C:\Users\yakup\source\repos\KutuphaneOtomasyon0\KutuphaneOtomasyon0\bin\Debug\KutuphaneOtomasyon0.pdb
+C:\Users\yakup\source\repos\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.csprojAssemblyReference.cache
+C:\Users\yakup\source\repos\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.Form1.resources
+C:\Users\yakup\source\repos\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.Properties.Resources.resources
+C:\Users\yakup\source\repos\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.csproj.GenerateResource.cache
+C:\Users\yakup\source\repos\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.csproj.CoreCompileInputs.cache
+C:\Users\yakup\source\repos\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.exe
+C:\Users\yakup\source\repos\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.pdb
+C:\Users\yakup\source\repos\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.csproj.CopyComplete
+C:\Users\yakup\source\repos\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.EmanetKitaplar.resources
+C:\Users\yakup\source\repos\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.OgrenciIslem.resources
+C:\Users\yakup\source\repos\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.OgrenciListele.resources
+C:\Users\yakup\source\repos\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.KitapEkle.resources
+C:\Users\yakup\source\repos\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.KitapListele.resources
+C:\Users\yakup\source\repos\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.EmanetAl.resources
+C:\Users\yakup\source\repos\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.KitapBirak.resources
+C:\Users\yakup\Desktop\C# Otomasyon DEnemelr\Yakup\KutuphaneOtomasyon0\KutuphaneOtomasyon0\bin\Debug\KutuphaneOtomasyon0.exe.config
+C:\Users\yakup\Desktop\C# Otomasyon DEnemelr\Yakup\KutuphaneOtomasyon0\KutuphaneOtomasyon0\bin\Debug\KutuphaneOtomasyon0.exe
+C:\Users\yakup\Desktop\C# Otomasyon DEnemelr\Yakup\KutuphaneOtomasyon0\KutuphaneOtomasyon0\bin\Debug\KutuphaneOtomasyon0.pdb
+C:\Users\yakup\Desktop\C# Otomasyon DEnemelr\Yakup\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.csprojAssemblyReference.cache
+C:\Users\yakup\Desktop\C# Otomasyon DEnemelr\Yakup\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.EmanetAl.resources
+C:\Users\yakup\Desktop\C# Otomasyon DEnemelr\Yakup\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.EmanetKitaplar.resources
+C:\Users\yakup\Desktop\C# Otomasyon DEnemelr\Yakup\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.Form1.resources
+C:\Users\yakup\Desktop\C# Otomasyon DEnemelr\Yakup\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.KitapBirak.resources
+C:\Users\yakup\Desktop\C# Otomasyon DEnemelr\Yakup\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.KitapEkle.resources
+C:\Users\yakup\Desktop\C# Otomasyon DEnemelr\Yakup\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.KitapListele.resources
+C:\Users\yakup\Desktop\C# Otomasyon DEnemelr\Yakup\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.OgrenciIslem.resources
+C:\Users\yakup\Desktop\C# Otomasyon DEnemelr\Yakup\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.OgrenciListele.resources
+C:\Users\yakup\Desktop\C# Otomasyon DEnemelr\Yakup\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.Properties.Resources.resources
+C:\Users\yakup\Desktop\C# Otomasyon DEnemelr\Yakup\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.csproj.GenerateResource.cache
+C:\Users\yakup\Desktop\C# Otomasyon DEnemelr\Yakup\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\C# Otomasyon DEnemelr\Yakup\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.csproj.CopyComplete
+C:\Users\yakup\Desktop\C# Otomasyon DEnemelr\Yakup\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.exe
+C:\Users\yakup\Desktop\C# Otomasyon DEnemelr\Yakup\KutuphaneOtomasyon0\KutuphaneOtomasyon0\obj\Debug\KutuphaneOtomasyon0.pdb

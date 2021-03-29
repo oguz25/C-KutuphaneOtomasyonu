@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KutuphaneOtomasyon0", "KutuphaneOtomasyon0\KutuphaneOtomasyon0.csproj", "{EF7F962B-2ECC-405F-9525-7ED231CD672E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "YakupKütüphaneOtomasyon", "YakupKütüphaneOtomasyon\YakupKütüphaneOtomasyon.vdproj", "{1DB0C596-CCEC-4B59-B6FB-0B9F68B14C4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF7F962B-2ECC-405F-9525-7ED231CD672E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7F962B-2ECC-405F-9525-7ED231CD672E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7F962B-2ECC-405F-9525-7ED231CD672E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7F962B-2ECC-405F-9525-7ED231CD672E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DB0C596-CCEC-4B59-B6FB-0B9F68B14C4B}.Debug|Any CPU.ActiveCfg = Debug
+		{1DB0C596-CCEC-4B59-B6FB-0B9F68B14C4B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {100870F2-779E-4F39-90BE-419566939024}
+	EndGlobalSection
+EndGlobal
